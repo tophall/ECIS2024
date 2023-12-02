@@ -1,5 +1,5 @@
 # Give Them Candy
-To utilize employees' potential for organizational cybersecurity, incentives can be used to motivate them to participate actively in cybersecurity. We conducted a systematic literature review (SLR) to create a taxonomy of cybersecurity incentives based on 39 publications. Evaluated by an expert survey of 74 researchers and practitioners and 10 expert interviews, our taxonomy benefits organizational cybersecurity. 
+To utilize employees' potential for organizational cybersecurity, incentives can be used to motivate them to participate actively in cybersecurity. We conducted a systematic literature review (SLR) to create a taxonomy of cybersecurity incentives based on 39 publications. Evaluated by an expert survey of 74 researchers and practitioners and 10 expert interviews, our taxonomy benefits organizational cybersecurity.
 
 This repository contains the documentation of the SLR, taxonomy building, the classification of the online survey, and the interview questionnaire. All files are in CSV format and within the `CSV` folder. We link the corresponding CSV file in the following sections for easy access.
 
@@ -19,21 +19,21 @@ The SLR was performed in five databases AIS, IEEE, ACM, ScienceDirect, and Sprin
 | Term part 1 | Operator | Term part 2       | AIS   | IEEE   | ACM   | ScienceDirect | SpringerLink |
 |-------------|----------|-------------------|:-----:|:------:|:-----:|:-------------:|:------------:|
 | Incentive   | AND      | Cybersecurity     | 1     | 1      | 2     | 1             | 0            |
-| Incentive   | AND      | Security          | 2     | 26     | 3     | 16            | 2            |
+| Incentive   | AND      | Security          | 2     | 22     | 3     | 15            | 2            |
 | Reward      | AND      | Cybersecurity     | 0     | 1      | 1     | 0             | 1            |
-| Reward      | AND      | Security          | 0     | 4      | 1     | 2             | 3            |
-|             |          | **∑**  | **3**     | **32**     | **7**     | **19**            | **6**            | **67**     |
+| Reward      | AND      | Security          | 0     | 3      | 1     | 2             | 3            |
+|             |          | **∑**  | **3**     | **27**     | **7**     | **18**            | **6**            | **61**     |
 
 The initial search in the databases resulted in 67 papers. After applying the inclusion criteria, the filtered set with 39 papers remains.
 
 | Database      | Initial Set | Filtered Set |
 |---------------|:-----------:|:------------:|
 | AIS           | 3           | 3            |
-| IEEE          | 32          | 16           |
+| IEEE          | 27          | 16           |
 | ACM           | 7           | 5            |
-| ScienceDirect | 19          | 12           |
+| ScienceDirect | 18          | 12           |
 | SpringerLink  | 6           | 3            |
-| **∑**         | **67**      | **39**       |
+| **∑**         | **61**      | **39**       |
 
 The systematic literature review and the filtering step are listed as follows and within the file [Systematic-Literature-Review.csv](CSV/Systematic-Literature-Review.csv). All identified papers are listed with the corresponding authors, titles, and attributes.
 
