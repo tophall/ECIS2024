@@ -1,0 +1,65 @@
+Dimension;Characteristics;∑;August2014;Giannetsos2014;Li2014;Liao2014;Shoshitaishvili2014;Nepal2015;Gisdakis2016;Naghizadeh2016;Naghizadeh2016a;Chatfield2017;Farhadi2017;Gonzalez2017;Korczynski2017;Abe2018;Xu2018;Zhan2018;Zhao2018;Berenjian2019;Kenneally2019;Kenneally2019a;Yang2019;Zhu2019;Goel2020;Morgner2020;Alkalabi2021;Goel2021;Kroll2021;Vlachos2021;Wessels2021;Arulprakash2022;Kolini2022;Li2022;Li2022a;Lu2022;McConnell2022;Wang2022;Wang2022a;Ali2023;Li2023
+1. Mechanism;Money;25;X;X;X;X;X;X;X;X;;X;X;X;;;X;X;X;;;X;X;;X;;X;X;;;X;X;X;;X;;;;;X;X
+;Reputation;12;;X;;;;;X;;X;;;;X;;;;;X;;X;X;;;;X;;;X;X;X;X;;;;;;;;
+;Token;8;;X;X;;;;X;;;;;;;X;;;;X;;;;;;;;;;;;X;;;X;;;;;X;
+;Law;6;;;;;;;;;;X;;;;;;;;;X;X;;;;X;X;;;;;;X;;;;;;;;
+;Data;5;;X;;;;;;;;;;X;;;X;;;;;;;;;;;;;;;X;X;;;;;;;;
+;Discount;5;X;;X;;;;X;;;;X;;;;;X;;;;;;;;;;;;;;;;;;;;;;;
+;Gamification;5;;;X;;X;;;;;;;;;;X;;;;;;;;;;;;;X;;;;;;;;;;X;
+;Feedback;4;;;;;;;;;;;;X;;;;;;;;;;;;;X;;X;;X;;;;;;;;;;
+;Certification;2;;;;;;;;;;;;X;;;;;;;;;;;;;;;;X;;;;;;;;;;;
+;Subsidy;2;;;;;;;;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+;Tax Reduction;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+2. Distribution;Reward;22;X;;X;;X;;X;;X;X;X;;X;X;X;X;X;;;;X;X;;;X;X;;;;X;X;;X;X;;;;X;X
+;Penalty;13;;;;;;;;;X;X;;;;;;;X;;;;X;X;X;X;X;X;;;;X;X;;;X;;;;;X
+;Physical;3;;;;;;;;;;;;;;;;;;;;;;;X;;;X;;;;;;;;;;X;;;
+;Digital;13;;;;;X;;X;;;X;X;;;X;X;X;;;;;;;;;X;;;;;X;X;;X;;;X;;X;
+;Manual;1;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;;;;;
+;Automatic;12;X;;;;X;;X;;;X;X;;;X;X;X;;;;;;;;;X;;;;;X;;;X;;;;;X;
+;Prepaid;7;X;;;;;;X;;;;X;;;X;X;X;;;;;;;;;X;;;;;;;;;;;;;;
+;Postpaid;4;;;;;;;;;;X;;X;;;;;;;;;;;X;;;X;;;;;;;;;;;;;
+;Disclosed;13;X;;;;X;;X;;;X;X;;;X;;X;;;;;;;X;;X;X;;;;X;X;;X;;;;;;
+;Undisclosed;1;;;;;;;;;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Fixed Amount;3;X;;;;;;;;;X;;;;;;X;;;;;;;;;;;;;;;;;;;;;;;
+;Dynamic Amount;15;;;X;;X;;X;X;;;X;;;X;X;;;;;;X;;X;;X;X;;;;X;X;;X;;;;;X;
+;Competitions;6;;;;;X;X;;;;X;;;;;;;;;;;;;;;;;;;;;X;;;;X;;;X;
+;Evaluation / Surveillance;2;;;;;;;;;;;;;;;;;;;;;;;;X;;X;;;;;;;;;;;;;
+;Deadlines & Goals;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+3. Outcome;Behavior Security enhancing;14;X;X;X;;;;;X;;;;X;;;;;;X;;;;X;X;;;X;X;X;X;X;;;;;;;;;X
+;Technology Security enhancing;10;;;;;;;X;;;X;;;;X;X;;;;X;X;;;;X;;;X;;;;;X;;;;;;X;
+;Short-Term;3;;;;X;;;;;;;;;;;;;;;;;;;X;;;X;;;;;;;;;;;;;
+;Long-Term;2;X;;;;;;;;;;;X;;;;;;;;;;;;;;;;;;;;;;;;;;;
+4. Target;Novice;10;;X;X;;;;;X;;;;;;;;X;X;;;;;X;;;;X;;;X;X;;;;;;;;;X
+;Expert;10;;;;;X;;;;;X;X;X;;X;;;;;;;;;X;;;;X;X;;;X;;X;;;;;;
+;Individual (without Org);12;X;X;X;;X;;;X;;X;X;;;X;;;X;;;;;X;;;;;;;;X;;;X;;;;;;
+;Individual (within Org);6;;;;;;;;;;;;;;;;X;;;;;;;X;;;X;X;X;;;;;;;;;;;X
+;Organization;11;X;;;X;;;;;X;;;X;;;;;;;;;X;;;X;X;;;;X;;X;;;;;X;X;;
+;Governmaent;2;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;
+;Technology;11;;;;;;X;X;;;;;;X;X;X;;;X;X;X;;;;;;;;;;;;X;X;;;;;X;
+5. Evaluation;Prototypical / Technical;15;;;X;X;;;X;;;;;X;X;X;X;;;X;;;X;X;;;;;;;;X;;X;X;X;;;X;;
+;User Study;8;;;;;X;;;;;X;;;;;;X;;;;;;;X;X;X;X;;;;;;;;;;;;;X
+;Expert Interview;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;;;;;;;;;;
+;Methodical;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;
+6. Sector;Digital Platforms;4;;;;;;;X;;X;;;;;;;;;;;;;;X;;;;;X;;;;;;;;;;;
+;Safety & Security;4;;;;;X;;;;;;;;;;;;;;;;;X;;;;;;;;;;;;;;X;X;;
+;Telecom Infrastructure;3;;;;;;;;;;;;;X;;X;;;X;;;;;;;;;;;;;;;;;;;;;
+;Government;2;;;;;;;;;;X;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;
+;Defence;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;
+;Financial;1;;;;;;;;;;;;;;X;;;;;;;;;;;;;;;;;;;;;;;;;
+;Transportation;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;
+7. Technology;Internet of Things;6;;;;;;;;;;;;;;;;;;;X;X;;X;;X;;;;;;;;;X;;;;;X;
+;Artificial Intelligence;4;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;X;X;;;;;X;
+;Blockchain;4;;;;;;;;;;;;;;X;;;;;;;;;;;;;;;;X;;;X;;;;;X;
+;Cyber Threat Intelligence;4;;;;;;;;;X;;;;;;;;;;;;X;;;;X;;;;;;X;;;;;;;;
+8. Domain;Security Management;19;X;;;;X;;;;X;X;X;X;;;;X;X;;;;X;;;X;X;;;X;X;;X;X;;;X;X;X;;X
+;Network & Systems;12;;;;X;;X;X;;;;;;X;X;X;;;X;X;X;;;;X;;;;;;;;;X;;;;;X;
+;Education & Training;6;;;;;X;;;;X;;;;;;;;;;;;;;X;;X;;;;;;X;;;;X;;;;
+;Human Aspects;6;;X;X;;;;;X;;;;;;;;;;;;;;X;;;;X;;;;;;;;X;;;;;
+;Data Security & Privacy;2;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;X;;;;;;;;;
+;Vulnerability Program;2;;;;;;;;;;X;;;;;;;;;;;;;;;;X;;;;;;;;;;;;;
+;Forensics;1;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;;;;;;;;
+9. Lifecycle;Identity;6;;;;;;;;;X;X;;;X;;;;;;;;X;;;;X;;;;X;;;;;;;;;;
+;Protect;35;X;X;X;X;;X;X;X;X;;X;X;;X;X;X;X;X;X;X;X;X;X;X;X;;X;X;X;X;X;X;X;X;X;X;X;X;X
+;Detect;9;;X;;;X;;X;;X;X;;;;X;;;;;;;;;;;;X;X;;;;;X;;;;;;;
+;Respond;1;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;;;;
+;Recover;1;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;;;;;;
