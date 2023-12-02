@@ -1,5 +1,5 @@
 # Give Them Candy
-To utilize employees' potential for organizational cybersecurity, incentives can be used to motivate them to participate actively in cybersecurity. We conducted a systematic literature review (SLR) to create a taxonomy of cybersecurity incentives based on 39 publications. Evaluated by an expert survey of 74 researchers and practitioners and 10 expert interviews, our taxonomy benefits organizational cybersecurity.
+To utilize employees' potential for organizational cybersecurity, incentives can be used to motivate them to participate actively in cybersecurity. We conducted a systematic literature review (SLR) to create a taxonomy of cybersecurity incentives based on 39 publications. Evaluated by an expert survey of 74 researchers and practitioners and 10 expert interviews, our taxonomy benefits organizational cybersecurity. 
 
 This repository contains the documentation of the SLR, taxonomy building, the classification of the online survey, and the interview questionnaire. All files are in CSV format and within the `CSV` folder. We link the corresponding CSV file in the following sections for easy access.
 
